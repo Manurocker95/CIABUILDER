@@ -7,6 +7,8 @@ homebrew .cia.
 Just double click the CIABUILDER.bat with the .elf, .rfs, banner.png and icon.png and this will automatically make the .cia
 for you.
 
+Open the .bat file with Sublime Text or other Text editor and change the "CreatorName" and "GameName" with your names :)
+
 Credits:
 
 - The original scripter (Don't remember who he/she is)
