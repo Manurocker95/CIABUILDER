@@ -11,3 +11,5 @@ Credits:
 
 - The original scripter (Don't remember who he/she is)
 - Me for this
+
+Credits are appreciated if using this :D
