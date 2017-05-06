@@ -1,6 +1,6 @@
 # Cia Builder Script
 
-As many people have issues converting their homebrews I looked at a simple cia converter from .3dsx and found one
+As many people have issues converting their homebrews I looked for a simple cia converter from .3dsx. Ifound one
 but it was deleted, so I remade the script. This is not for making redirections to .3dsx, it's for building directly the
 homebrew .cia. 
 
